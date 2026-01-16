@@ -1,0 +1,81 @@
+# ============================================
+# .gitignore - File yang tidak di-push ke GitHub
+# ============================================
+
+# Virtual Environment
+venv/
+env/
+.venv/
+.env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environment variables (SENSITIF!)
+.env
+.env.local
+.env.*.local
+*.env
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+.temp/
+tmp/
+
+# Database files (jika ada)
+*.db
+*.sqlite3
+
+# Credentials (SENSITIF!)
+credentials.json
+token.json
+*.pem
+*.key
+secrets/

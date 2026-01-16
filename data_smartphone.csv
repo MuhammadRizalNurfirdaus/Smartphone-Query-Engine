@@ -1,0 +1,21 @@
+id,nama,merek,harga,ram,storage,baterai,kamera,layar,sistem_operasi,deskripsi
+1,Galaxy S24 Ultra,Samsung,21999000,12,256,5000,200,6.8,Android 14,Smartphone flagship dengan kamera 200MP dan S Pen terintegrasi untuk produktivitas maksimal
+2,iPhone 15 Pro Max,Apple,24999000,8,256,4422,48,6.7,iOS 17,Smartphone premium dengan chip A17 Pro dan Dynamic Island untuk pengalaman gaming terbaik
+3,Redmi Note 13 Pro,Xiaomi,3999000,8,128,5100,200,6.67,Android 13,HP mid-range dengan kamera 200MP dan fast charging 67W yang sangat terjangkau
+4,ROG Phone 8 Pro,ASUS,18999000,16,512,5500,50,6.78,Android 14,Gaming phone terbaik dengan layar 165Hz dan sistem pendingin canggih
+5,Pixel 8 Pro,Google,15999000,12,128,5050,50,6.7,Android 14,Smartphone dengan AI terbaik dan pengalaman Android murni dari Google
+6,OnePlus 12,OnePlus,13999000,12,256,5400,50,6.82,Android 14,Flagship killer dengan Hasselblad camera dan charging 100W super cepat
+7,Vivo X100 Pro,Vivo,14999000,12,256,5400,50,6.78,Android 14,Smartphone dengan Zeiss optics dan performa kamera malam yang luar biasa
+8,Oppo Find X7 Ultra,Oppo,17999000,16,512,5000,50,6.82,Android 14,HP premium dengan dual periscope lens dan ColorOS yang smooth
+9,Realme GT5 Pro,Realme,9999000,12,256,5400,50,6.78,Android 14,Smartphone dengan harga terjangkau dan performa flagship Snapdragon 8 Gen 3
+10,Poco F6 Pro,Xiaomi,7499000,12,256,5000,50,6.67,Android 14,HP gaming budget dengan layar AMOLED 120Hz dan HyperOS terbaru
+11,Samsung Galaxy A54,Samsung,5499000,8,128,5000,50,6.4,Android 13,Mid-range Samsung dengan fitur premium dan update software 4 tahun
+12,iPhone 14,Apple,13999000,6,128,3279,12,6.1,iOS 16,iPhone terjangkau dengan kamera yang bagus dan performa stabil untuk daily use
+13,Redmi 13C,Xiaomi,1799000,4,128,5000,50,6.74,Android 13,Entry level smartphone dengan baterai besar dan harga sangat murah
+14,Infinix Note 30 Pro,Infinix,3299000,8,256,5000,108,6.78,Android 13,HP murah dengan speaker JBL dan wireless charging yang jarang di kelasnya
+15,Tecno Spark 20 Pro,Tecno,2499000,8,256,5000,108,6.78,Android 13,Smartphone budget dengan desain premium dan kamera 108MP
+16,Honor Magic 6 Pro,Honor,16999000,12,512,5600,50,6.8,Android 14,Flagship dengan AI Eye Tracking dan silicon carbon battery terbaru
+17,Motorola Edge 50 Pro,Motorola,8999000,12,256,4500,50,6.7,Android 14,HP dengan pengalaman Moto yang bersih dan wireless charging 50W
+18,Nothing Phone 2,Nothing,9499000,12,256,4700,50,6.7,Android 14,Smartphone unik dengan Glyph Interface LED dan desain transparan
+19,Sony Xperia 1 VI,Sony,19999000,12,256,5000,48,6.5,Android 14,HP untuk content creator dengan fitur video profesional dan layar 4K
+20,Nubia RedMagic 9 Pro,Nubia,12999000,16,512,6500,50,6.8,Android 14,Gaming phone dengan baterai terbesar dan fan cooling internal
