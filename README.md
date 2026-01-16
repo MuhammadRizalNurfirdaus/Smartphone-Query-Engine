@@ -12,7 +12,48 @@
 
 ---
 
-## 📖 Deskripsi Proyek
+## � Quick Start - Clone Repository
+
+### 1. Clone Repository
+
+```bash
+git clone https://github.com/MuhammadRizalNurfirdaus/Smartphone-Query-Engine.git
+```
+
+### 2. Masuk ke Direktori Project
+
+```bash
+cd Smartphone-Query-Engine
+```
+
+### 3. Buat Virtual Environment (Opsional tapi Disarankan)
+
+```bash
+python -m venv venv
+source venv/bin/activate  # Linux/Mac
+# atau
+venv\Scripts\activate     # Windows
+```
+
+### 4. Install Dependencies
+
+```bash
+pip install pandas jupyter
+```
+
+### 5. Jalankan Jupyter Notebook
+
+```bash
+jupyter notebook text_mining_query_engine.ipynb
+```
+
+### 6. Jalankan Semua Cell
+
+Tekan `Shift+Enter` pada setiap cell atau gunakan menu `Run > Run All Cells`
+
+---
+
+## �📖 Deskripsi Proyek
 
 **Smartphone Query Engine** adalah sebuah mini-query engine yang dibangun untuk memproses bahasa query text-mining. Proyek ini mengimplementasikan konsep-konsep fundamental dalam **Automata dan Teknik Kompilasi**, termasuk:
 
